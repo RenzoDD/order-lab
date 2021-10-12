@@ -19,7 +19,7 @@ Visualizador de Métodos de Ordenamiento
 
 ## Programadores ✒️
 
-* **U201810780** - Renzo Diaz - [RenzoDD2001](https://github.com/RenzoDD2001)
+* **U201810780** - Renzo Diaz - [RenzoDD](https://github.com/RenzoDD)
 * **U201810741** - Andrés Mares
 
 ## Agradecimientos 🎁
